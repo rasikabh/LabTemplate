@@ -1,8 +1,8 @@
-# LabTemplate
+# Fundies 2 Lab Template Repo
 
 Welcome to CS 2511 (the labs associated with CS 2510)!
 
-The labs are designed to prepare you for the CS 2510 homework assignments.
+The labs are designed to prepare you for the CS 2510 homework assignments. Please check Canvas for the lab assignment for this week.
 
  
 
